@@ -792,6 +792,9 @@
                 },
                 {
                     "base": "c60_t0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB"
+                },
+                {
+                    "base": "c60_t0xD5e2A54Fef5f9E4A6b21EC646Bbed7A160a00F18"
                 }
             ]
         },
@@ -3617,6 +3620,16 @@
             "symbol": "FSW",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB/logo.png",
+            "pairs": []
+        },
+        {
+            "asset": "c60_t0xD5e2A54Fef5f9E4A6b21EC646Bbed7A160a00F18",
+            "type": "ERC20",
+            "address": "0xD5e2A54Fef5f9E4A6b21EC646Bbed7A160a00F18",
+            "name": "BeforeCoinMarketCap",
+            "symbol": "BCMC1",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD5e2A54Fef5f9E4A6b21EC646Bbed7A160a00F18/logo.png",
             "pairs": []
         }
     ],
